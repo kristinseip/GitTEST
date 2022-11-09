@@ -1,0 +1,7 @@
+Commands:
+
+1.To show history: git log 
+
+2. If there are outstanding commits to do: git commit -m "message"
+
+3.In order to create a new repository click on VCS and enable Version control integration.
